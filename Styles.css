@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    background-color: beige;
+    font-family:sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+
+img{
+    width: 150px;
+}
+section{
+    background-color: white;
+}
+
+div{
+    background-color: white;
+}
+
+.Education{
+    background-color: white;
+}
+
+footer{
+    text-align: center;
+}
